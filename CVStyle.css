@@ -1,0 +1,25 @@
+body{
+    font-family: Roboto, monospace;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-family: Playfair Display, monospace;
+    font-size: 30px;
+}
+
+div{
+    margin:auto;
+    width: 50%;
+}
+
+.timeslot{
+    font-family: Bebas Neue, monospace;
+    text-transform:uppercase;
+    color: grey;
+}
